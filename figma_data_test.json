@@ -3,23 +3,25 @@
 
   "Location:Google" : ["San Francisco, CA, USA", "Singapore", "Toronto, ON, Canada", "London, UK", "Sydney NSW, Australia", "Melbourne VIC, Australia", "Vancouver, BC, Canada", "Los Angeles, CA, USA", "New York, NY, USA", "Chicago, IL, USA", "Cape Town, South Africa", "Auckland, New Zealand", "Calgary, AB, Canada", "Houston, TX, USA", "Pretoria, South Africa", "Las Vegas, NV, USA", "Johannesburg, South Africa", "Perth WA, Australia", "San Diego, CA, USA", "Atlanta, GA, USA", "Chicago, IL, USA", "Ottawa, ON, Canada", "Austin, TX", "Punta Cana, Dominican Republic", "Brisbane QLD, Australia", "Seattle, WA, USA", "Edmonton, AB, Canada", "Tokyo, Japan", "Santa Barbara, CA, USA", "Napa Valley, CA, USA", "Brooklyn, NY, USA", "Paris, France", "Barcelona, Spain"],
 
-  "Location:Stress Test" : ["Michael's Garage","Seattle Office","790 Brannan St, San Francisco, CA","939 Harrison St, San Francisco, CA"],
+  "Location:Stress_Test" : ["Michael's Garage","Seattle Office","790 Brannan St, San Francisco, CA","939 Harrison St, San Francisco, CA"],
 
   "Phone_Numbers" : ["996-7931","(415) 996-7931","+1-415-996-7931","1-415-996-7931","4159967931"],
 
   "URL" : ["www.ta.co","http://ta.co","https://ta.co","ta.co"],
 
+  "Wedding_Date" : [""],
+
   "Date:Absolute" : [""],
 
   "Date:Relative" : ["Just now","1 minute ago","5 minutes ago","10 minutes ago","2 hours ago","14 hours ago","Yesterday","2 days ago","3 days ago","Jan 1, 2025","Jan 1, 2018","Jan 1, 2017","Jan 1, 2016","Jan 1, 2015","Jan 1, 2014","Jan 1, 2013","Jan 1, 2012"],
 
-  "Dress Codes" : ["Black Tie Optional","Formal","Semi-Formal","Cocktail Attire","Dressy Casual","Black Tie","Casual"],
+  "Dress_Codes" : ["Black Tie Optional","Formal","Semi-Formal","Cocktail Attire","Dressy Casual","Black Tie","Casual"],
 
-  "Event Names:Marcom" : [""],
+  "Event_Names:Marcom" : [""],
 
-  "Event Names:Stress Test" : ["Romeo & Juliet","Joy & Friends","Amy & Dave","Jonathan & Sophia","Bacon Strips & Bacon Strips & Bacon Strips & Bacon Strips & Bacon Strips & Bacon Strips"],
+  "Event_Names:Stress_Test" : ["Romeo & Juliet","Joy & Friends","Amy & Dave","Jonathan & Sophia","Bacon Strips & Bacon Strips & Bacon Strips & Bacon Strips & Bacon Strips & Bacon Strips"],
 
-  "Relationship Status" : ["Single","In a relationship","Engaged","Married","Ask me","Wink Wink"],
+  "Relationship_Status" : ["Single","In a relationship","Engaged","Married","Ask me","Wink Wink"],
 
   "RSVP" : ["Attending","Not Attending","Maybe"],
 
@@ -27,7 +29,7 @@
 
   "Teams" : ["Team Romeo","Team Juliet","Team both"],
 
-  "Wedding Party Roles" : ["Best Man","Maid of Honor","Matron of Honor","Man of Honor","Candle Lighter","Groomsman","Bridesmaid","Father of the Bride","Father of the Groom","Mother of the Bride","Mother of the Groom","Junior Bridesmaid","Junior Groomsman","Junior Usher","Koumbaro","Koumbara","Officiant","Page","Flower Child","Flower Boy","Flower Girl","Honor Attendant","Honorary Attendant","Huppah Carrier","Ring Bearer","Ring Bear","Shushavim","Train Bearer","Usher","VIE","VIP"],
+  "Wedding_Party_Roles" : ["Best Man","Maid of Honor","Matron of Honor","Man of Honor","Candle Lighter","Groomsman","Bridesmaid","Father of the Bride","Father of the Groom","Mother of the Bride","Mother of the Groom","Junior Bridesmaid","Junior Groomsman","Junior Usher","Koumbaro","Koumbara","Officiant","Page","Flower Child","Flower Boy","Flower Girl","Honor Attendant","Honorary Attendant","Huppah Carrier","Ring Bearer","Ring Bear","Shushavim","Train Bearer","Usher","VIE","VIP"],
 
   "Language:Belasuran" : ["«    »    Ё    І    Ў    А    Б    В    Г    Д    Е    Ж    З    И    Й    К    Л    М    Н    О    П    Р    С    Т    У    Ф    Х    Ц    Ч    Ш    Щ    Ъ    Ы    Ь    Э    Ю    Я    а    б    в    г    д    е    ж    з    и    й    к    л    м    н    о    п    р    с    т    у    ф    х    ц    ч    ш    щ    ъ    ы    ь    э    ю    я    ё    і    ў    ‘    ‚    “    „"],
 
