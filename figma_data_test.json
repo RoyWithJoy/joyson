@@ -9,7 +9,7 @@
 
   "URL" : ["www.ta.co","http://ta.co","https://ta.co","ta.co"],
 
-  "Wedding_Date" : [""],
+  "Wedding_Date" : ["Saturday, May 7th, 2022","Saturday, May 14th, 2022","Saturday, May 21st, 2022","Saturday, May 28th, 2022","Saturday, June 4th, 2022","Saturday, June 11th, 2022","Saturday, June 18th, 2022","Saturday, June 25th, 2022","Saturday, July 2nd, 2022","Saturday, July 9th, 2022","Saturday, July 16th, 2022","Saturday, July 23rd, 2022","Saturday, July 30th, 2022","Saturday, August 6th, 2022","Saturday, August 13th, 2022","Saturday, August 20th, 2022","Saturday, August 27th, 2022","Saturday, September 3rd, 2022","Saturday, September 10th, 2022","Saturday, September 17th, 2022","Saturday, September 24th, 2022","Saturday, October 1st, 2022","Saturday, October 8th, 2022","Saturday, October 15th, 2022","Saturday, October 22nd, 2022","Saturday, October 29th, 2022",],
 
   "Date:Absolute" : [""],
 
@@ -18,6 +18,10 @@
   "Dress_Codes" : ["Black Tie Optional","Formal","Semi-Formal","Cocktail Attire","Dressy Casual","Black Tie","Casual"],
 
   "Event_Names:Marcom" : [""],
+
+  "Event_Names:Male" : [""],
+
+  "Event_Names:Female" : [""],
 
   "Event_Names:Stress_Test" : ["Romeo & Juliet","Joy & Friends","Amy & Dave","Jonathan & Sophia","Bacon Strips & Bacon Strips & Bacon Strips & Bacon Strips & Bacon Strips & Bacon Strips"],
 
